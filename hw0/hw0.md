@@ -2,11 +2,7 @@
 
 ```
 
-\begin{center}
-\begin{huge}
-MCIS6273 Data Mining (Prof. Maull) / Fall 2025 / HW0
-\end{huge}
-\end{center}
+# MCIS6273 Data Mining (Prof. Maull) / Fall 2025 / HW0
 
 | Points <br/>Possible | Due Date | Time Commitment <br/>(estimated) |
 |:---------------:|:--------:|:---------------:|
