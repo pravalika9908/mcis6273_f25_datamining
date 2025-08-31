@@ -11,6 +11,5 @@
 | 4 | HW4   | Supervised Learning | 12/1  @ Midnight |
 
 
-
-	<!-- | 2 | HW2 <br/> [[pdf]](./hw2/hw2.pdf) [[md]](./hw2/hw2.md) [[ipynb]](./hw2/hw2_starter.ipynb)   <br/>  | EDA, Statistical Analysis and Visualization | 10/8  @ Midnight | -->
+<!-- | 2 | HW2 <br/> [[pdf]](./hw2/hw2.pdf) [[md]](./hw2/hw2.md) [[ipynb]](./hw2/hw2_starter.ipynb)   <br/>  | EDA, Statistical Analysis and Visualization | 10/8  @ Midnight | -->
 
