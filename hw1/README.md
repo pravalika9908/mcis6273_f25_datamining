@@ -8,7 +8,7 @@ This  homework   focuses on data engineering tasks using Pandas. The objective o
 
 	* Combining, converting, splitting and normalizing data in Pandas
 
-**Expected Outcomes:**
+## Expected Outcomes
 
 * Learn data engineering techniques with Pandas
 * Learn data export techniques with CSV
